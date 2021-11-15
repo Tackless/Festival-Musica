@@ -28,5 +28,13 @@
     "postcss": "^8.3.11",
     "sass": "^1.43.3"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tackless/Festival-Musica.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tackless/Festival-Musica/issues"
+  },
+  "homepage": "https://github.com/Tackless/Festival-Musica#readme"
 }
